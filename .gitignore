@@ -1,0 +1,11 @@
+# Local runtime, credentials, databases and caches
+.tools/
+**/.secret
+**/.ai-config.json
+**/.env
+**/.env.*
+**/.data/
+**/__pycache__/
+*.pyc
+*.log
+.DS_Store

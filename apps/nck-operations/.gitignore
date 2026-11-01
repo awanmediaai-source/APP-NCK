@@ -1,0 +1,7 @@
+.secret
+__pycache__/
+*.pyc
+.data/
+*.log
+
+.ai-config.json
